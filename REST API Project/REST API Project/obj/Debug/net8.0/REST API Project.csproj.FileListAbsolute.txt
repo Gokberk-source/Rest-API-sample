@@ -1,0 +1,32 @@
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\appsettings.Development.json
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\appsettings.json
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\REST API Project.exe
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\REST API Project.deps.json
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\REST API Project.runtimeconfig.json
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\REST API Project.dll
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\REST API Project.pdb
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\Microsoft.OpenApi.dll
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\bin\Debug\net8.0\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.csproj.AssemblyReference.cache
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.AssemblyInfoInputs.cache
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.AssemblyInfo.cs
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.csproj.CoreCompileInputs.cache
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\staticwebassets.build.json
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\staticwebassets.development.json
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\staticwebassets\msbuild.REST API Project.Microsoft.AspNetCore.StaticWebAssets.props
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\staticwebassets\msbuild.build.REST API Project.props
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\staticwebassets\msbuild.buildMultiTargeting.REST API Project.props
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\staticwebassets\msbuild.buildTransitive.REST API Project.props
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\staticwebassets.pack.json
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\scopedcss\bundle\REST API Project.styles.css
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API.06020BF2.Up2Date
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.dll
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\refint\REST API Project.dll
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.pdb
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\REST API Project.genruntimeconfig.cache
+C:\Users\gkber\OneDrive\Desktop\Projeler\REST API Project\REST API Project\obj\Debug\net8.0\ref\REST API Project.dll
